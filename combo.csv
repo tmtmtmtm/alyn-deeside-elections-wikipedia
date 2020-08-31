@@ -1,0 +1,58 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q809053,Barry Jones,Q9630,Labour Party (UK),17806,Q918466,General election 1983,1
+,Q269940,Simon Burns,Q9626,Conservative Party (UK),16438,Q918466,General election 1983,2
+,,Eric Owen,Q40052,Social Democratic Party (UK),9535,Q918466,General election 1983,3
+,,Keith Shore,Q10691,Plaid Cymru,413,Q918466,General election 1983,4
+,Q809053,Barry Jones,Q9630,Labour Party (UK),22916,Q918472,General election 1987,1
+,,Nicholas Twilley,Q9626,Conservative Party (UK),16500,Q918472,General election 1987,2
+,,Eric Owen,Q40052,Social Democratic Party (UK),7273,Q918472,General election 1987,3
+,,John Rogers,Q10691,Plaid Cymru,478,Q918472,General election 1987,4
+,Q809053,Barry Jones,Q9630,Labour Party (UK),25206,Q543609,General election 1992,1
+,,Jeffrey J. Riley,Q9626,Conservative Party (UK),17355,Q543609,General election 1992,2
+,,Robert A. Britton,Q9624,Liberal Democrats (UK),4687,Q543609,General election 1992,3
+,,John D. Rogers,Q10691,Plaid Cymru,551,Q543609,General election 1992,4
+,,Victor J. Button,Q9669,Green Party of England and Wales,433,Q543609,General election 1992,5
+,,John Cooksey,Q327591,Independent (politician),200,Q543609,General election 1992,6
+,Q809053,Barry Jones,Q9630,Labour Party (UK),25955,Q918503,General election 1997,1
+,,Timothy P. Roberts,Q9626,Conservative Party (UK),9552,Q918503,General election 1997,2
+,Q5354231,Eleanor Burnham,Q9624,Liberal Democrats (UK),4076,Q918503,General election 1997,3
+,,Malcolm J. D. Jones,Q278315,Referendum Party,1627,Q918503,General election 1997,4
+,,Siw Hills,Q10691,Plaid Cymru,738,Q918503,General election 1997,5
+,Q272569,Mark Tami,Q9630,Labour Party (UK),18525,Q590740,General election 2001,1
+,Q6768190,Mark Isherwood,Q9626,Conservative Party (UK),9303,Q590740,General election 2001,2
+,,Derek Burnham,Q9624,Liberal Democrats (UK),4585,Q590740,General election 2001,3
+,,Richard S. Coombs,Q10691,Plaid Cymru,1182,Q590740,General election 2001,4
+,,Klaus Armstrong-Braun,Q9669,Green Party of England and Wales,881,Q590740,General election 2001,5
+,,William Crawford,Q10647,UK Independence Party,481,Q590740,General election 2001,6
+,,John Cooksey,Q327591,Independent (politician),253,Q590740,General election 2001,7
+,,Glyn Davies,Q1120576,Communist Party of Britain,211,Q590740,General election 2001,8
+,Q272569,Mark Tami,Q9630,Labour Party (UK),17331,Q428598,General election 2005,1
+,,Lynne Hale,Q9626,Conservative Party (UK),8953,Q428598,General election 2005,2
+,,Paul J. Brighton,Q9624,Liberal Democrats (UK),6174,Q428598,General election 2005,3
+,,Richard Coombs,Q10691,Plaid Cymru,1320,Q428598,General election 2005,4
+,,Billy Crawford,Q10647,UK Independence Party,918,Q428598,General election 2005,5
+,,Klaus Armstrong-Braun,Q384261,Forward Wales,378,Q428598,General election 2005,6
+,,Judith Kilshaw,Q327591,Independent (politician),215,Q428598,General election 2005,7
+,,Glyn Davies,Q1120576,Communist Party of Britain,207,Q428598,General election 2005,8
+,Q272569,Mark Tami,Q9630,Labour Party (UK),15804,Q215622,General election 2010,1
+,,Will Gallagher,Q9626,Conservative Party (UK),12885,Q215622,General election 2010,2
+,,Paul J. Brighton,Q9624,Liberal Democrats (UK),7308,Q215622,General election 2010,3
+,,Maurice Jones,Q10691,Plaid Cymru,1549,Q215622,General election 2010,4
+,,John Walker,Q161269,British National Party,1368,Q215622,General election 2010,5
+,,James Howson,Q10647,UK Independence Party,1009,Q215622,General election 2010,6
+,Q272569,Mark Tami,Q9630,Labour Party (UK),16540,Q3586935,General election 2015,1
+,,Laura Knightly,Q9626,Conservative Party (UK),13197,Q3586935,General election 2015,2
+,,Blair Smillie,Q10647,UK Independence Party,7260,Q3586935,General election 2015,3
+,,Tudor Jones,Q9624,Liberal Democrats (UK),1733,Q3586935,General election 2015,4
+,,Jacqueline Hurst,Q10691,Plaid Cymru,1608,Q3586935,General election 2015,5
+,,Alasdair Ibbotson,Q9669,Green Party of England and Wales,976,Q3586935,General election 2015,6
+,Q272569,Mark Tami,Q832685,Welsh Labour Party,23315,Q25052149,General election 2017,1
+,,Laura Knightly,Q7981882,Welsh Conservative Party,18080,Q25052149,General election 2017,2
+,,Jacqui Hurst,Q10691,Plaid Cymru,1171,Q25052149,General election 2017,3
+,,David Griffiths,Q10647,UK Independence Party,1117,Q25052149,General election 2017,4
+,,Pete Williams,Q7981939,Welsh Liberal Democrats,1077,Q25052149,General election 2017,5
+,Q272569,Mark Tami,Q832685,Welsh Labour,18271,Q30173038,General election 2019,1
+Q76362937,,Sanjoy Sen,Q7981882,Welsh Conservative Party,18058,Q30173038,General election 2019,2
+Q76509739,,Simon Wall,Q61651140,Brexit Party,2678,Q30173038,General election 2019,3
+Q63929167,,Donna Lalek,Q7981939,Welsh Liberal Democrats,2548,Q30173038,General election 2019,4
+Q76131114,,Susan Hills,Q10691,Plaid Cymru,1453,Q30173038,General election 2019,5
