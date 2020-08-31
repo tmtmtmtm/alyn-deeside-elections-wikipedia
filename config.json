@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Alyn_and_Deeside_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q750582",
+    "start": "1983",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate in Alyn and Deeside",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
